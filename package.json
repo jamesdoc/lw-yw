@@ -1,0 +1,16 @@
+{
+  "name": "uw",
+  "version": "1.0.0",
+  "main": "first.js",
+  "scripts": {
+    "snake": "you-win snake.js",
+    "stars": "you-win stars.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "you-win": "^0.1.4"
+  }
+}
